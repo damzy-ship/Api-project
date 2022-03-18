@@ -1,0 +1,75 @@
+.box {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+.box2 {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+
+.image-container{
+  background-image: url('../coke-cans.jpg');
+  background-size: cover;
+  display: inline-block; 
+  height: 210px; 
+  width: 200px;
+  border-radius: 20px;
+}
+[v-cloak] {
+  display: none;
+}
+
+.text-content {
+  margin-left: 12rem;
+  display: inline-block;
+  position: absolute;
+}
+.text-content__container {
+  width: 70%;
+}
+
+.inner-content-container {
+  width: 88%;
+}
+
+.project{
+    padding: 1rem 1rem 2rem 1rem;
+    border-radius: 20px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.project-price {
+  font-size: 2rem;
+}
+
+.project__description--box {
+  padding-left: 10rem;
+}
+
+.project__description {
+  font-size: 0.8rem;
+  color: grey;
+}
+
+.backers {
+  font-size: 0.8rem;
+  color: grey;
+}
+.project__availability-quantity-status {
+  font-size: 0.8rem;
+  display: inline-block;
+}
+.end-text {
+  width: 100%;
+  position: relative;
+}
+
+.delivery-date {
+  font-size: 0.8rem;
+  color: grey;
+  display: inline-block;
+  float: right;
+}

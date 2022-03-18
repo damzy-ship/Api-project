@@ -1,0 +1,18 @@
+[
+    {
+        "price": 2,
+        "name": "Lagos main land bridge project",
+        "description": "A small donation of N20k or more to support our countryland is hugely appreciated! We will include your name in our first issue",
+        "status": "Unlimited available",
+        "backers": 5,
+        "delivery-date": "Dec 2022"
+    },
+    {
+        "price": 500,
+        "name": "Lagos, Epe Railway",
+        "description": "A donation of N5m or more to support our countryland is hugely appreciated! We will include your name in our first issue.",
+        "statue":"0/100 available",         
+        "backers": 100,
+        "delivery-date": "Mar 2022"
+    }
+]
