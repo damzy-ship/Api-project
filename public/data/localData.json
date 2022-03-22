@@ -1,0 +1,32 @@
+[
+    {
+        "price": 2,
+        "name": "Lagos main land bridge project",
+        "description": "A small donation of N20k or more to support our countryland is hugely appreciated! We will include your name in our first issue",
+        "status": "Unlimited available",
+        "backers": 52,
+        "delivery-date": "Dec 2022",
+        "url": "../rsz_image2.jpg",
+        "availability-stat": false
+    },
+    {
+        "price": 500,
+        "name": "Lagos, Epe Railway",
+        "description": "A donation of N5m or more to support our countryland is hugely appreciated! We will include your name in our first issue.",
+        "status":"0/100 available",         
+        "backers": 100,
+        "delivery-date": "Mar 2022",
+        "url": "../rsz_image3.jpg",
+        "availability-stat": true
+    },
+    {
+        "price": 6,
+        "name": "Lagos Orphanage",
+        "description": "A donation of N60k or more to support our countryland is hugely appreciated! We will include your name in our first issue.",
+        "status":"Unlimited available",         
+        "backers": 100,
+        "delivery-date": "Dec 2022",
+        "url": "../rsz_image4.jpg",
+        "availability-stat": true    
+    }
+]

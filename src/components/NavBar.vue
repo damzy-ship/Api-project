@@ -1,40 +1,50 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-light">
-    <div class="container">
-      <a class="navbar-brand" href="#">API</a>
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-bs-toggle="collapse"
-        data-bs-target="#navbarNav"
-        aria-controls="navbarNav"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-          <li class="nav-item ms-5 me-5">
-            <a class="nav-link" href="#">Overview</a>
-          </li>
-          <li class="nav-item ms-5 me-5">
-            <a class="nav-link" href="#">Gallery</a>
-          </li>
-          <li class="nav-item ms-5 me-5">
-            <a class="nav-link" href="#">The Team</a>
-          </li>
-          <li class="nav-item ms-5 me-5">
-            <a class="nav-link" href="#">News</a>
-          </li>
-          <li class="nav-item ms-5 me-5">
-            <a class="nav-link" href="#">Pledges</a>
-          </li>
-          <li class="nav-item ms-5 me-5">
-            <a class="nav-link" href="#">Reviews</a>
-          </li>
-        </ul>
+<div class="mb-5">
+      <div class="row">
+        <div class="col-5">
+          <hr />
+          <div class="row">
+            <div class="col-1">
+              <img
+                style="position: relative; bottom: 3px"
+                src="../assets/home.png"
+                height="18px"
+              />
+            </div>
+            <div class="col navigation-item">
+              <h6>Overview</h6>
+            </div>
+            <div class="col navigation-item center-div">
+              <h6>Gallery</h6>
+            </div>
+            <div class="col navigation-item center-div">
+              <h6>The Team</h6>
+            </div>
+            <div class="col center-div">
+              <h6>News</h6>
+            </div>
+          </div>
+        </div>
+        <div class="col-2 center-div">
+          <h6 class="main-header">NIGERIA FUND</h6>
+        </div>
+        <div class="col-5">
+          <hr />
+          <div class="row">
+            <div class="col-3">
+              <h6>Pledges</h6>
+            </div>
+            <div class="col-5 navigation-item">
+              <h6>Create account</h6>
+            </div>
+            <div class="col navigation-item center-div">
+              <h6>Reviews</h6>
+            </div>
+            <div class="col center-div">
+              <h6>FAQs</h6>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-  </nav>
 </template>
